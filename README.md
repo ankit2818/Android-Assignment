@@ -2,7 +2,7 @@
 
 # Demo
 
-![](https://drive.google.com/file/d/1hfqhKKponLkqVqH_Dy6zaJfyemhhOPtS/view?usp=sharing)
+![Google Drive](https://drive.google.com/file/d/1hfqhKKponLkqVqH_Dy6zaJfyemhhOPtS/view?usp=sharing)
 
 # Usage
 
