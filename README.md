@@ -11,9 +11,9 @@
 #### Gradle
 ```groovy
 dependencies {
-        compile 'com.android.support:support-compat:25.1.1'
-        compile 'com.daimajia.easing:library:2.0@aar'
-        compile 'com.daimajia.androidanimations:library:2.3@aar'
+    compile 'com.android.support:support-compat:25.1.1'
+    compile 'com.daimajia.easing:library:2.0@aar'
+    compile 'com.daimajia.androidanimations:library:2.3@aar'
 }
 ```
 #### Maven
@@ -47,33 +47,33 @@ YoYo.with(Techniques.Tada)
 
 ### Effects
 #### Attension
-`Flash`, `Pulse`, `RubberBand`, `Shake`, `Swing`, `Wobble`, `Bounce`, `Tada`, `StandUp`, `Wave`
+`Flash` `Pulse` `RubberBand` `Shake` `Swing` `Wobble` `Bounce` `Tada` `StandUp` `Wave`
 
 #### Special
-`Hinge`, `RollIn`, `RollOut`,`Landing`,`TakingOff`,`DropOut`
+`Hinge` `RollIn` `RollOut``Landing``TakingOff``DropOut`
 
 #### Bounce
-`BounceIn`, `BounceInDown`, `BounceInLeft`, `BounceInRight`, `BounceInUp`
+`BounceIn` `BounceInDown` `BounceInLeft` `BounceInRight` `BounceInUp`
 
 #### Fade
-`FadeIn`, `FadeInUp`, `FadeInDown`, `FadeInLeft`, `FadeInRight`
+`FadeIn` `FadeInUp` `FadeInDown` `FadeInLeft` `FadeInRight`
 
-`FadeOut`, `FadeOutDown`, `FadeOutLeft`, `FadeOutRight`, `FadeOutUp`
+`FadeOut` `FadeOutDown` `FadeOutLeft` `FadeOutRight` `FadeOutUp`
 
 #### Flip
-`FlipInX`, `FlipOutX`, `FlipOutY`
+`FlipInX` `FlipOutX` `FlipOutY`
 
 #### Rotate
-`RotateIn`, `RotateInDownLeft`, `RotateInDownRight`, `RotateInUpLeft`, `RotateInUpRight`
+`RotateIn` `RotateInDownLeft` `RotateInDownRight` `RotateInUpLeft` `RotateInUpRight`
 
-`RotateOut`, `RotateOutDownLeft`, `RotateOutDownRight`, `RotateOutUpLeft`, `RotateOutUpRight`
+`RotateOut` `RotateOutDownLeft` `RotateOutDownRight` `RotateOutUpLeft` `RotateOutUpRight`
 
 #### Slide
-`SlideInLeft`, `SlideInRight`, `SlideInUp`, `SlideInDown`
+`SlideInLeft` `SlideInRight` `SlideInUp` `SlideInDown`
 
-`SlideOutLeft`, `SlideOutRight`, `SlideOutUp`, `SlideOutDown`
+`SlideOutLeft` `SlideOutRight` `SlideOutUp` `SlideOutDown`
 
 #### Zoom
-`ZoomIn`, `ZoomInDown`, `ZoomInLeft`, `ZoomInRight`, `ZoomInUp`
+`ZoomIn` `ZoomInDown` `ZoomInLeft` `ZoomInRight` `ZoomInUp`
 
-`ZoomOut`, `ZoomOutDown`, `ZoomOutLeft`, `ZoomOutRight`, `ZoomOutUp`
+`ZoomOut` `ZoomOutDown` `ZoomOutLeft` `ZoomOutRight` `ZoomOutUp`
